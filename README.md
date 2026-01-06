@@ -19,14 +19,6 @@ A simple and fun number guessing game built with HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript (Vanilla JS)
 
-## 📂 Project Structure
-
-lecture35/
-│
-├── index.html      # Main HTML file
-├── style.css       # Styling for the game
-└── chaiAurCode.js  # JavaScript logic for the game
-
 ## 🚀 How to Run the Project
 
 1. Clone or download the repository.
